@@ -8,7 +8,7 @@ The 2018-2020 Ebola epidemic is now over, and all situation reports have been re
 
 #### Epi Curve
 
-![Allele Frequency](https://raw.githubusercontent.com/andersen-lab/ebole-drc-epidemiology/master/img/epi_curve.jpg)
+![Conf_Prob_cases](https://raw.githubusercontent.com/andersen-lab/ebole-drc-epidemiology/master/img/updated_epi_curve.jpg)
 
 **Disclaimer**. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we’ll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
 
