@@ -6,9 +6,13 @@ We accumulated patient data from situation reports released by the WHO each week
 
 The 2018-2020 Ebola epidemic is now over, and all situation reports have been released. Currently, the data available reflects reports released from August 7, 2018 to June 23, 2020, which exhibit data collected on August 5, 2018 to June 21, 2020. Reports released before July 23, 2019 can be found ([here](https://www.who.int/ebola/situation-reports/drc-2018/en/)) and all reports can be found ([here](https://www.who.int/publications/i)), specifying "Ebola virus disease" as Health Topic and "Situation report" for Publication Type. Over the whole epidemic, 3317 confirmed and 153 probable cases as well as 2287 deaths -including 2134 deaths among confirmed cases- were reported across 29 health zones in the DRC.
 
-#### Epi Curve
+#### Aggregated Ebola Cases
 
 ![Conf_Prob_cases](https://raw.githubusercontent.com/andersen-lab/ebole-drc-epidemiology/master/img/updated_epi_curve.jpg)
+
+#### 2021 update
+
+The latest Ebola outbreak in the Democratic Republic of Congo was announced on February 7, 2021, beginning with a patient who presented symptoms on February 1 and died on February 3.  13 cases and 5 deaths were reported from the DRC, with the most recent case being reported on March 16, and the DRC declared on May 3 that the outbreak was over.
 
 **Disclaimer**. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we’ll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
 
