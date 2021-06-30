@@ -2,7 +2,7 @@
 
 The latest Ebola outbreak in the Democratic Republic of Congo was announced on February 7, 2021, beginning with a patient who presented symptoms on February 1 and died on February 3.  In total, 13 cases and 5 deaths were reported from the NOrth Kivu province, with the most recent case being reported on March 16. On May 3, the DRC declared the end of the outbreak.
 
-#### 2018-2020 outbreak: Summary
+#### 2018-2020 epidemic: Summary
 
 In an effort to increase our understanding of the 2018-2020 Ebola virus (EBOV) epidemic in the Democratic Republic of Congo (DRC), we compiled epidemiological data collected by the World Health Organization (WHO).
 
